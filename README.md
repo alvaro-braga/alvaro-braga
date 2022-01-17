@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro Braga</h1>
-<h3 align="center">A full stack web developer starting his career.</h3>
+<h3 align="center">A full stack web developer, graduated at Trybe, starting his career.</h3>
 
 - 📫 How to reach me **alvaro.braga.job@gmail.com**
 
